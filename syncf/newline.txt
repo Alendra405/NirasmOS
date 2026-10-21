@@ -1,0 +1,9 @@
+syncf/kernel.asm
+syncf/ClearScreen.asm
+syncf/Keyboard.asm
+syncf/output.asm
+syncf/Nirac.asm
+syncf/Keyboard_Nirac.asm
+syncf/SectorKeyboard(sorry).asm
+syncf/var.asm
+
